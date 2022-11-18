@@ -11,3 +11,5 @@ docker build ./src/paymentservice -t paymentservice
 docker build ./src/productcatalogservice -t productcatalogservice
 docker build ./src/recommendationservice -t recommendationservice
 docker build ./src/shippingservice -t shippingservice
+
+

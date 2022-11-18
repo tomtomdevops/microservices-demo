@@ -13,3 +13,4 @@ minikube kubectl -- apply -f kubernetes-manifests/currencyservice.yaml
 minikube kubectl -- apply -f kubernetes-manifests/adservice.yaml 
 minikube kubectl -- apply -f kubernetes-manifests/redis.yaml 
 minikube kubectl -- apply -f kubernetes-manifests/shippingservice.yaml 
+
